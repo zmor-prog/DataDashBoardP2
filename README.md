@@ -1,4 +1,4 @@
-# Web Development Project 6 - *DataDashbpard Jobs*
+# Web Development Project 6 - *DataDashboard Jobs*
 
 Submitted by: **Zamirah MORGAN**
 
